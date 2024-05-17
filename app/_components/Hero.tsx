@@ -27,7 +27,7 @@ function Hero() {
       <div className="mt-8 flex flex-wrap justify-center gap-4">
         <a
           className="block w-full rounded-full bg-black text-white px-12 py-3 text-sm font-medium  shadow hover:bg-slate-600 focus:outline-none focus:ring active:bg-red-500 sm:w-auto"
-          href="https://github.com/arkapg211002/FusionDraw/tree/main"
+          href="https://github.com/arkapg211002/FusionDraw/tree/main" target="_blank"
         >
           <b>Repository</b>
         </a>
