@@ -1,4 +1,4 @@
-
+![Landing Page](https://github.com/arkapg211002/FusionDraw/blob/main/s1.png)
 ## Getting Started
 
 First, run the development server:
