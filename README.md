@@ -1,8 +1,4 @@
 ![Landing Page](https://github.com/arkapg211002/FusionDraw/blob/main/s1.png)
-![Sign In Page](https://github.com/arkapg211002/FusionDraw/blob/main/s2.png)
-![Sign Up Page](https://github.com/arkapg211002/FusionDraw/blob/main/s4.png)
-![Dashboard Page](https://github.com/arkapg211002/FusionDraw/blob/main/s5.png)
-![Editor Page](https://github.com/arkapg211002/FusionDraw/blob/main/s6.png)
 
 ## Getting Started
 
